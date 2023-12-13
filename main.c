@@ -1,5 +1,5 @@
 #include "shell.h"
-#include <string.h>  // Add this line to include the necessary header for memset
+#include <string.h>  /* Add this line to include the necessary header for memset*/
 
 /**
  * main - entry point
